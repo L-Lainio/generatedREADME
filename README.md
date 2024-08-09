@@ -1,8 +1,5 @@
 # Professional README Generator Starter Code
 
-## Link to my walkthrough for this below link to video walkthrough
-![]<iframe src="https://share.zight.com/Wnu8rnlD" width="360" height="270" style="border:none" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowtransparency="true" allowfullscreen="true"></iframe>
-
 ## My GIF
 ![](./assets/images/Zight%20Recording%202024-5-23%20at%206.42.08%20PM.gif)
 
