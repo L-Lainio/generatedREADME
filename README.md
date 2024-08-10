@@ -1,6 +1,12 @@
 # Professional README Generator 
 Week-09 Challenge Node.js Challenge: Professional README Generator
 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Lora Lainio](https://img.shields.io/badge/Lora-Lainio-4baaaa.svg)
+
 ## Table of Contents 🗒
 * [Description](#Description-📝)
 * [My_GIF_&_ScreenShot](#My_GIF_&_ScreenShot)
